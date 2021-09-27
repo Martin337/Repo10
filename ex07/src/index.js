@@ -4,7 +4,7 @@ function myFunction(property){
     var lion = {
         name: "Simba",
         legs: 4,
-        tail: 1,
+        tails: 1,
         roar: "roar-roar"
     };
     delete lion[property];

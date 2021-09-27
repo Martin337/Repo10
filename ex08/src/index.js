@@ -17,5 +17,5 @@ function getUserName(email){
     return username;
 }
 
-console.log(getUserName("user2@mail.com"));
+getUserName("user2@mail.com");
 module.exports = getUserName;

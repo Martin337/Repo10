@@ -16,8 +16,8 @@ function myFunction(){
             title: "We Are Not Alone",
             release_year: 2004,
             formats: {
-                1: "CD"
-                2: "Mp3"
+                1: "Youtube",
+                2: "Mp3",
                 3: "DVD"
             },
         }
