@@ -20,6 +20,7 @@ function myFunction(){
                 2: "Mp3",
                 3: "DVD"
             },
+            gold: false
         }
     };
     return myMusic;

@@ -1,8 +1,7 @@
 function getUserName(email){
-
     var username = "";
-    // Only change code below this line
 
+    // Only change code below this line
         username = {
             "user1@mail.com" : "user1",
             "user2@mail.com" : "user2",
@@ -14,6 +13,7 @@ function getUserName(email){
     
     username = username[email];
     // Only change code above this line
+
     return username;
 }
 
